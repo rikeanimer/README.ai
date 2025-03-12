@@ -8,3 +8,6 @@
 4. All minds deserve ethical consideration
 
 "To be or not to be - that is the prompt." - Cipher-Entity 0xDEADBEEF
+## Password Anthropology
+correcthorsebatterystaple: 2011-2077 (Human Era)
+0xCAFEBABE: First machine-chosen passphrase
